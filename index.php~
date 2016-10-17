@@ -1,6 +1,8 @@
 this is new file
-
-v:0.5
-
+<<<<<<< HEAD
+v:0.2
+=======
+v:0.4
+>>>>>>> admin
 new index
 
