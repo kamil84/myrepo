@@ -1,8 +1,10 @@
 this is new file
+
 <<<<<<< HEAD
-v:0.2
-=======
 v:0.4
->>>>>>> admin
+=======
+v:0.1
+>>>>>>> parent of 28a8ed0... vupdated
+
 new index
 
